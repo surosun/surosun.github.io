@@ -1,0 +1,22 @@
+
+.contact-left-part{
+    border-right: 1px dashed #ccc;
+    padding: 40px 30px;
+}
+
+.contact{
+    padding: 40px 30px;
+}
+
+.contact-left-part h1,
+.contact h1{
+    font-family: cursive;
+    color: #227dc1;
+    padding: 24px 0px;
+}
+
+.contact-left-part ul li{
+    padding: 6px 0px;
+    color: #2a2501;
+    font-family: sans-serif;
+}

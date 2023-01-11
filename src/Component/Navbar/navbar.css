@@ -1,0 +1,75 @@
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0rem  !important; 
+    padding-bottom: 0rem !important;
+}
+
+.header_area .navbar .nav .nav-item .nav-link {
+    font-family: playfair, serif;
+    text-transform: uppercase;
+    color: #222;
+    padding: 22px 4px 22px 0;
+    display: inline-block;
+}
+
+.link{
+    display: block;
+    padding: 0.5rem 3rem !important;
+    font-size: 17px;
+    font-weight: 400;
+    /* font-family: none; */
+    color: #1770b3 !important;
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'playfair';
+    src: local('playfair'), url(../../assest/fonts/PlayfairDisplay-VariableFont_wght.ttf) format('truetype');
+    /* other formats include: 'woff2', 'truetype, 'opentype',
+                              'embedded-opentype', and 'svg' */
+  }
+
+/* .link{
+    margin: 0px 30px;
+    color: rgb(34 125 193) !important;
+    font-weight: 500;
+} */
+
+@media only screen and (max-width: 1920px) {
+.logoDisplay{
+    display: block;
+}
+}
+
+@media only screen and (max-width: 1366px) {
+    .logoDisplay{
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 896px) {
+    .logoDisplay{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 620px) {
+    .logoDisplay{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 324px) {
+    .logoDisplay{
+        display: none;
+    }
+}
+
+

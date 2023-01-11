@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+
+
+/* amenities style */
+.amenities, .mapSection, .testimonial{
+    padding: 2% 4%;
+}
+
+.Section_header{
+    font-weight: 600;
+    color: #227dc1;
+}
+
+.Section_link{
+    font-weight: 300;
+
+}
+
+.facilities_icon{
+    color: #12121269;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 27px 0px;
+
+}
+
+.facilities_name{
+    color: #227dc1;
+    font-size: 26px;
+    padding: 0px 19px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.facilities_details{
+    color: #121212;
+    font-size: 14px;
+    text-align: center;
+    padding: 0px 19px;
+    font-weight: 400;
+}
+
+/*  */
+
+/* rooms */
+/* .services-box-caption{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%, -50%, 10px);
+    transform: translate3d(-50%, -50%, 10px);
+    width: 90%;
+    max-width: 350px;
+    text-align: center;
+    padding-top: 12%;
+    padding-bottom: 11%;
+    -webkit-perspective: 1300px;
+    perspective: 1300px;
+    z-index: 1;
+} */
+
+
+
+
+.services-box-title {
+    position: relative;
+    font: 700 24px/28px "Poppins", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.05em;
+}
+
+
+
+.services-box-price {
+    display: inline-block;
+    margin-top: 18px;
+    font-style: italic;
+}
+
+/*  */
+
+
+
+
+/* counter */
+.count{
+    padding: 2% 4%;
+}
+.count_body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #db8e42;
+    color: #fff;
+    /* padding: 40px 15px 40px; */
+}
+.count_number{
+    font-size: 55px !important;
+    font-weight: 700 !important;
+}
+
+.count_details{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+.form-search-position {
+    position: relative;
+    bottom: 82px;
+    z-index: 1;
+    background-color: rgb(255 255 255 / 69%);
+    padding: 31px 40px 40px 40px;
+    box-shadow: 0 5px 20px 0 rgb(0 0 0 / 10%);
+    border-radius: 4px;
+}
+
+.form-label {
+    margin-bottom: 1rem !important;
+    color: aliceblue;
+}
+
+.form-select {
+   border-radius: 0.2rem !important;
+}
+
+.form-date {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem 0.375rem 0.75rem;
+    -moz-padding-start: calc(0.75rem - 3px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da ;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+
+button {
+    width: 100%;
+    font-size: 13px;
+    font-family: "Playfair Display",serif;
+    font-weight: 600;
+    border: 0;
+    background: #227dc1;
+    height: 39px;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 0.2rem !important;
+
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0rem !important;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.welcome {
+    padding: 60px 200px;
+}
+
+.about-us-heading{
+    font-size: 56px;
+    color: #227dc1;
+}
+
+.room_header_style{
+    font-size: 56px;
+    font-family: emoji;
+    color: #227dc1;
+    padding-bottom: 80px;
+}
+
+.room_details_card{
+    box-shadow: 0 5px 20px 0 rgb(0 0 0 / 10%);
+    border: none !important;
+}
+
+.card_body_style{
+    margin: 12px 22px;
+}
+
+.card_header{
+    font-size: 22px !important;
+    font-family: "Playfair Display",serif;
+    font-weight: 700;
+    color: #222;
+    margin: 12px 0 18px 0;
+}
+
+.room_parice{
+    font-size: 26px;
+    font-family: "Playfair Display",serif;
+    color: #222;
+    font-weight: 600;
+    margin-bottom: 10px !important;
+}
+
+
+.room_details{
+    font-size: 16px !important;
+    font-family: revert;
+    color: #838383;
+    margin: 24px 0px;
+}
+
+.card {
+    border-radius: 0;
+    border: 0;
+    margin: 0 4px 4px 0;
+}
+
+.welcome-content {
+    padding-left: 60px;
+}
+
+.facilities_images{
+  
+    padding: 33px 0px;
+
+}
+
+.facilities_body{
+    padding: 20px;
+
+}
+
+.make_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.testimonial_body{
+    background-color: #f3f3f3;
+}
+
+.testimonial_person_images{
+    background-color: #227dc1;
+}
+
+.testimonial_details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15%;
+    text-align: justify;
+}
+
+.testimonial_images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+
+/* contact */
+.contacts_way{
+    padding: 3% 9%;
+}
+.aside-title{
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #151515;
+}
+
+.divider{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.divider-custom {
+    position: relative;
+    background-color: #ddd;
+}
+
+.divider-left {
+    margin-left: 0;
+}
+
+.divider {
+    display: inline-block;
+    margin-bottom: 0;
+    border: none;
+    height: 1px;
+    width: 100%;
+    background-color: #8f859e;
+    margin-bottom: 12px;
+}
+
+.divider-custom:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70px;
+    height: 3px0;
+    border-top: 1px solid #ff0000;
+    content: "";
+    display: inline-block;
+}

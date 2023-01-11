@@ -1,0 +1,119 @@
+
+.menu-list{
+    padding: 12px 60px;
+}
+
+.services-header p{
+    font-size: 34px;
+    font-family: cursive;
+    color: #b035dc;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.services-body p{
+    color: #747474;
+    line-height: 27px;
+    font-size: 17px;
+    padding: 12px 30px;
+}
+
+.food-service-header{
+    text-align: center;
+    /* background-color: #fd0034; */
+    /* display: inline-block; */
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-bottom: 5%;
+}
+
+.food-service-header h1{
+    background-color: #f32801;
+    display: inline-block;
+    padding: 12px;
+    box-shadow: 10px 10px 10px #767272;
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.list {
+    /* display: flex;  */
+    /* flex-direction: row; */
+    border-bottom: 1px solid #cccccc47;
+    justify-content: baseline;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: baseline;
+
+}
+
+.list-item {
+    font-family: inherit;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 3px 0px;
+}
+
+.item-amount {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between;
+    justify-items: center;
+    align-items: baseline;
+}
+
+.list-item-amount {
+    font-family: inherit;
+    color: #ffffff;
+    font-size: 13px;
+    background-color: #b035dc;
+    /* padding: 12px; */
+    width: 33px;
+    text-align: center;
+}
+.list-item-amount2 {
+    font-family: inherit;
+    color: #fffef8;
+    font-size: 13px;
+    background-color: #199d7c;
+    /* padding: 12px; */
+    width: 33px;
+    text-align: center;
+}
+
+.list-price {
+    font-size: small;
+    float: right;
+    font-family: inherit;
+    text-transform: uppercase;
+    color: #ffc107;
+    font-weight: 600;
+}
+.service-side-images{
+    text-align: center;
+}
+
+.services-items{
+    padding-top: 12px;
+}
+.services-items-header{
+    color: #16629b;
+    text-align: center;
+    padding: 0px 25px;
+    font-size: 37px;
+    font-family: system-ui;
+    text-transform: uppercase;
+    border-bottom: 4px dashed #16629bdb;
+}
+
+.services-items-details{
+    color: #747474;
+    line-height: 27px;
+    font-size: 17px;
+    padding: 12px 30px;
+}
+.services_images{
+    padding: 30px;
+}

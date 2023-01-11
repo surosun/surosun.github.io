@@ -1,0 +1,80 @@
+.title {
+        margin-bottom: 20px;
+        padding: 20px
+}
+
+.img {
+        height: 260px;
+        width: 100%
+}
+
+.rooms-details {
+        padding: 30px;
+}
+
+.rooms-description-icon {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 22px;
+}
+
+.icon-description p {
+        color: #565656;
+        font-family: cursive;
+        margin-top: 12px;
+        font-weight: 300;
+}
+
+.icon-description {
+        text-align: center;
+}
+
+.rooms-description-details-right{
+        padding-top: 110px;
+}
+
+.rooms-details-header {
+        font-size: xx-large;
+        font-weight: 700;
+        color: #227dc1;
+        font-family: system-ui;
+}
+
+.rooms-details-header span {
+        font-size: 17px;
+        font-family: cursive;
+        font-weight: 200;
+        color: #009d46;
+        padding-left: 12px;
+}
+
+.rooms-description-details {
+        display: flex;
+        flex-direction: column;
+
+}
+
+.rooms-description-details h5 {
+        font-size: 17px;
+        padding: 4px 28px;
+        font-family: inherit;
+        color: #1372b9;
+        text-transform: uppercase;
+}
+
+.rooms-description-details p {
+        padding: 0px 35px;
+        text-align: justify;
+}
+
+.rooms-description-details-row {
+        padding: 8px 35px
+}
+
+.hotel-facilities-style p {
+        background-color: #99a3a314;
+        padding: 6px 7px;
+        font-family: cursive;
+        color: #737474;
+}

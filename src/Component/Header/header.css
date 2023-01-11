@@ -1,0 +1,56 @@
+
+
+.header_section{
+  padding: 0% 4%;
+}
+
+.header_details{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.side_intro{
+color:rgb(34 125 193);
+}
+
+
+@media only screen and (max-width: 1920px) {
+    .logoDisplay{
+        display: inline-flex;
+        justify-content: center;
+    }
+    }
+    
+    @media only screen and (max-width: 1366px) {
+        .logoDisplay{
+            display: inline-flex;
+            justify-content: center;
+
+        }
+    }
+    
+    @media only screen and (max-width: 896px) {
+        .logoDisplay{
+            display: none;
+        }
+    }
+    
+    
+    @media only screen and (max-width: 620px) {
+        .logoDisplay{
+            display: none;
+        }
+    }
+    
+    
+    @media only screen and (max-width: 324px) {
+        .logoDisplay{
+            display: none;
+        }
+    }
+    
+    
+    
