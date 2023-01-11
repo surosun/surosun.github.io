@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/surosun.github.io/static/css/main.0a605d27.css",
+    "main.js": "/surosun.github.io/static/js/main.81a17744.js",
+    "static/js/787.48a3adfe.chunk.js": "/surosun.github.io/static/js/787.48a3adfe.chunk.js",
+    "static/media/Logo.png": "/surosun.github.io/static/media/Logo.e5ba78a7d4e5bc7bd43b.png",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/surosun.github.io/static/media/PlayfairDisplay-VariableFont_wght.54971b7248ded7d0d614.ttf",
+    "static/media/slider.jpg": "/surosun.github.io/static/media/slider.708f5059873edaaca543.jpg",
+    "static/media/room2.jpg": "/surosun.github.io/static/media/room2.7abaad1c36caffed25de.jpg",
+    "static/media/room1.jpg": "/surosun.github.io/static/media/room1.9a60b23bd95f28532666.jpg",
+    "static/media/room3.jpg": "/surosun.github.io/static/media/room3.da2655c3c293e52c5ce6.jpg",
+    "static/media/breakfast.jpg": "/surosun.github.io/static/media/breakfast.f61e5a41903026e57009.jpg",
+    "static/media/about.jpg": "/surosun.github.io/static/media/about.8e7afa4cf1f2a10519a9.jpg",
+    "static/media/about1.jpg": "/surosun.github.io/static/media/about1.1b9b01bc938ddad659f0.jpg",
+    "index.html": "/surosun.github.io/index.html",
+    "main.0a605d27.css.map": "/surosun.github.io/static/css/main.0a605d27.css.map",
+    "main.81a17744.js.map": "/surosun.github.io/static/js/main.81a17744.js.map",
+    "787.48a3adfe.chunk.js.map": "/surosun.github.io/static/js/787.48a3adfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a605d27.css",
+    "static/js/main.81a17744.js"
+  ]
+}
